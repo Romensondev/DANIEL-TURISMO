@@ -386,24 +386,24 @@ h3 {
 }
 
 .line-button:hover {
-    color: #009DFF
+    color: #323535
 }
 
 .line-button:hover::before {
-    background: #009DFF
+    background: #323535
 }
 
 .book_now {
     display: inline-block;
-    font-size: 14px;
-    color: #009DFF;
-    border: 1px solid #009DFF;
+    font-size: 16px;
+    color: #000000;
+    border: 1px solid #000000;
     text-transform: capitalize;
     padding: 10px 25px
 }
 
 .book_now:hover {
-    background: #009DFF;
+    background: #000000;
     color: #fff
 }
 
@@ -649,7 +649,7 @@ h3 {
 
 @media (max-width: 767px) {
     .header-area .main-header-area .logo-img img {
-        width: 70px
+        width: 100px
     }
 }
 
@@ -1036,7 +1036,7 @@ h3 {
 }
 
 .about_area .about_thumb .img_2 {
-    margin-top: 40px;
+    margin-top: 60px;
     margin-left: 10px
 }
 
@@ -1288,7 +1288,7 @@ h3 {
 }
 
 .video_bg {
-    background-image: url(../img/video/video.png)
+    background-image: url(../img/video/banner.jpg)
 }
 
 .video_area {
