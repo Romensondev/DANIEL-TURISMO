@@ -187,7 +187,7 @@ h3 {
 }
 
 .bg-img-1 {
-    background-image: url(../img/slider/slider-img-1.jpg)
+    background-image: url(../img/banner/pipabanner.jpg)
 }
 
 .bg-img-2 {
@@ -926,14 +926,14 @@ h3 {
 }
 
 .slider_bg_1 {
-    background-image: url(../img/banner/banner.png)
+    background-image: url(../img/banner/pipabanner.jpg)
 }
 
 .slider_bg_2 {
     background-image: url(../img/banner/banner2.jpg)
 }
 .slider_bg_3 {
-    background-image: url(../img/banner/banner.png)
+    background-image: url(../img/banner/pipabanner.jpg)
 }
 .slider_area .single_slider {
     height: 100vh;
@@ -1076,7 +1076,7 @@ h3 {
 }
 
 .about_bg_1 {
-    background-image: url(../img/banner/about_banner.png)
+    background-image: url(../img/banner/pipabanner.jpg)
 }
 
 .about_info_area {
@@ -1877,15 +1877,15 @@ h3 {
 }
 
 .breadcam_bg {
-    background-image: url(../img/banner/bradcam.png)
+    background-image: url(../img/banner/about_banner.jpg)
 }
 
 .breadcam_bg_1 {
-    background-image: url(../img/banner/bradcam2.png)
+    background-image: url(../img/banner/about_banner.jpg)
 }
 
 .breadcam_bg_2 {
-    background-image: url(../img/banner/bradcam3.png)
+    background-image: url(../img/banner/about_banner.jpg)
 }
 
 .bradcam_area {
