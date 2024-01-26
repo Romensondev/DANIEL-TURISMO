@@ -37,7 +37,7 @@ body {
     font-family: 'Raleway', sans-serif;
     font-weight: normal;
     font-style: normal;
-    background-color: #b0afbe 
+    
 }
 
 .img {
@@ -619,7 +619,7 @@ h3 {
     -webkit-transition: transform 500ms ease, background 500ms ease;
     box-shadow: 0px 3px 16px 0px rgba(0, 0, 0, 0.1);
     padding: 10px 150px;
-    background: #1d233c
+    background: #0AA3CF
 }
 
 @media (max-width: 767px) {
@@ -891,7 +891,7 @@ h3 {
     -webkit-transition: transform 500ms ease, background 500ms ease;
     box-shadow: 0px 3px 16px 0px rgba(0, 0, 0, 0.1);
     padding: 10px 150px;
-    background: #1d233c
+    background: ##00ada3
 }
 
 @media (max-width: 767px) {
