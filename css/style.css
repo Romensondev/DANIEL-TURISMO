@@ -619,7 +619,7 @@ h3 {
     -webkit-transition: transform 500ms ease, background 500ms ease;
     box-shadow: 0px 3px 16px 0px rgba(0, 0, 0, 0.1);
     padding: 10px 150px;
-    background: #0AA3CF
+    background: #009DFF
 }
 
 @media (max-width: 767px) {
@@ -702,7 +702,7 @@ h3 {
 }
 
 .header-area .main-header-area .book_room .socail_links ul li a {
-    color: #A8A7A0;
+    color: #ffffff;
     margin: 0 10px;
     font-size: 15px
 }
@@ -923,18 +923,39 @@ h3 {
 }
 
 .slider_bg_0 {
-    background-image: url(../img/banner/pipabanner.jpg)
+    background-image: url(../img/banner/0.jpg)
 }
 
 .slider_bg_1 {
-    background-image: url(../img/banner/pipabanner.jpg)
+    background-image: url(../img/banner/1.jpg)
 }
 
 .slider_bg_2 {
-    background-image: url(../img/banner/banner2.jpg)
+    background-image: url(../img/banner/2.jpg)
 }
 .slider_bg_3 {
-    background-image: url(../img/banner/pipabanner.jpg)
+    background-image: url(../img/banner/3.jpg)
+}
+.slider_bg_4 {
+    background-image: url(../img/banner/4.jpg)
+}
+.slider_bg_5 {
+    background-image: url(../img/banner/5.jpg)
+}
+.slider_bg_6 {
+    background-image: url(../img/banner/6.jpg)
+}
+.slider_bg_7 {
+    background-image: url(../img/banner/7.jpg)
+}
+.slider_bg_8 {
+    background-image: url(../img/banner/8.jpg)
+}
+.slider_bg_9 {
+    background-image: url(../img/banner/9.jpg)
+}
+.slider_bg_10 {
+    background-image: url(../img/banner/10.jpg)
 }
 .slider_area .single_slider {
     height: 100vh;
