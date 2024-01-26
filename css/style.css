@@ -891,7 +891,7 @@ h3 {
     -webkit-transition: transform 500ms ease, background 500ms ease;
     box-shadow: 0px 3px 16px 0px rgba(0, 0, 0, 0.1);
     padding: 10px 150px;
-    background: ##00ada3
+    background: #009DFF
 }
 
 @media (max-width: 767px) {
@@ -970,12 +970,15 @@ h3 {
     text-transform: capitalize;
     letter-spacing: 2px;
     font-weight: 400;
-    margin-bottom: 4px
+    margin-bottom: 4px;
+    background-color: rgba(0, 157, 255, 0.332); /* #009DFF with 70% transparency */
+    border-radius: 10px; /* Adjust the value to change the roundness of the corners */
+    padding: 20px;
 }
 
 @media (max-width: 767px) {
     .slider_area .single_slider .slider_text h3 {
-        font-size: 33px;
+        font-size: 30px;
         letter-spacing: 3px
     }
 }
@@ -4712,7 +4715,7 @@ h6 {
     background: -webkit-linear-gradient(131deg, #feb47b 0%, #ff7e5f 99%);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
-    -webkit-animation: 1s
+    -webkit-animation: 0.5s
 }
 
 .blog_part .single-home-blog .card ul li {
