@@ -3,13 +3,31 @@
 
 
 
-.float {
+.whatsapp {
     position: fixed;
     width: 60px;
     height: 60px;
     bottom: 40px;
     right: 40px;
     background-color: #25d366;
+    color: #fff;
+    border-radius: 50%;
+    text-align: center;
+    font-size: 24px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-decoration: none;
+  }
+
+  .instagram {
+    position: fixed;
+    width: 60px;
+    height: 60px;
+    bottom: 100px;
+    right: 40px;
+    background: linear-gradient(45deg, #405de6, #5851db, #833ab4, #c13584, #e1306c, #fd1d1d, #f56040, #f77737, #fcaf45, #ffdc80);
     color: #fff;
     border-radius: 50%;
     text-align: center;
